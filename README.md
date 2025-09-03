@@ -64,5 +64,5 @@ Based on these findings, I recommend focusing on incentives for longer-term cont
 ## License
 
 This project is licensed under the MIT License.
-```eof# customer-churn-prediction-v2
-# customer-churn-prediction-v2
+```eof# customer-churn-prediction
+# customer-churn-prediction
